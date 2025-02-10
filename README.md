@@ -249,7 +249,7 @@ DELETE /personnes/4
 }
 ```
 ## Contact
-**Nom de l'étudiant :** Amal Ben Ali
+**Nom de l'étudiante :** Amal Ben Ali
 
 **Matière :** SoA et Microservices
 
